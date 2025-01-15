@@ -2,6 +2,7 @@
 
 This project is a **Spring Boot** web application that allows users to manage and purchase products in an e-commerce system with a special feature for **locking product prices**. Users can lock a product’s price at a discount for 10 days and purchase the product within that timeframe. If the user fails to purchase the product within 10 days, the locked price is automatically unlocked, and the product reverts to its normal price.
 
+
 ## Key Features:
 - **Product Listing**: Display a list of products with their regular and discounted prices.
 - **Price Locking**: Allows users to lock a product’s price at a discount for 10 days.
