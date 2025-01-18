@@ -11,7 +11,6 @@ This project is a **Spring Boot** web application that allows users to manage an
 
 ## Technologies Used:
 - **Spring Boot**: Backend application framework.
-- **JSP**: For rendering the frontend.
 - **Hibernate**: ORM for database interactions.
 - **MySQL**: Database for storing product, price lock, and purchase information.
 - **Maven**: Build tool for managing dependencies and building the project.
